@@ -7,4 +7,4 @@ The disadvantage of this solution is that the application cannot work properly w
 
 This proxy DLL could also work with other applications that report a problem with cfgmgr32.dll - CM_Register_Notification error in the Windows 7. But the application needs to be patched.
 
-Video tutorial for using DaVinchi Resolve 17 on Windows 7 (and how to patch application)
+Video tutorial for using DaVinci Resolve 17 on Windows 7 (and how to patch application) here: https://youtu.be/S8BHm4UHrrc
