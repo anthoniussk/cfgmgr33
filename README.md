@@ -1,5 +1,5 @@
 # cfgmgr33
-Proxy DLL for DaVinci Resolve 17 on Windows 7
+Proxy DLL for DaVinci Resolve 17 on Windows 7 (64 bit)
 
 This is proxy DLL created for using DaVinci Resolve on Windows 7. Windows 10 version of cfgmgr32.dll provide new function for notification from USB ports that is not available in Windows 7. DaVinci Resolve from version 17 uses this new function and cough at windows 7 users. This proxy DLL implements export of this function to run Resolve 7, but it only inmediatelly return back.
 
