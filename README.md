@@ -5,6 +5,6 @@ This is proxy DLL created for using DaVinci Resolve on Windows 7. Windows 10 ver
 
 The disadvantage of this solution is that the application cannot work properly with USB devices inserted into the USB port during the operation of the application. If the device is inserted into the USB port before launching the application, this should not affect the function of the application.
 
-This proxy DLL could also work with other applications that report a problem with cfgmgr32.dll in the Windows 7. But the application needs to be patched.
+This proxy DLL could also work with other applications that report a problem with cfgmgr32.dll - CM_Register_Notification error in the Windows 7. But the application needs to be patched.
 
 Video tutorial for using DaVinchi Resolve 17 on Windows 7 (and how to patch application)
